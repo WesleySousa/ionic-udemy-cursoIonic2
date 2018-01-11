@@ -1,6 +1,6 @@
 {
-  "name": "cursoIonic2",
-  "app_id": "",
+  "name": "My First Ionic 2 Course ",
+  "app_id": "com.estudos.wesley.cursoionic2",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
